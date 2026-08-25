@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+nav {
+    margin-bottom: 40px;
+}
+
+nav a {
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+input,
+textarea {
+    padding: 10px;
+    width: 300px;
+}
+
+textarea {
+    height: 120px;
+}
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
